@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (T3 1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  Rectangle.cpp
+  Generating code
+  16 of 16 functions (100.0%) were compiled.
+    6 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  T3 1.vcxproj -> C:\Users\Adoni$\Desktop\T3 1\x64\Release\Laboratory3.1_Ploae_Darius_Adonis_Ionut.exe

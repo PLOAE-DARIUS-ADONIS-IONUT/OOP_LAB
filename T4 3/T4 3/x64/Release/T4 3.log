@@ -1,0 +1,7 @@
+﻿  Library.cpp
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 224 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  T4 3.vcxproj -> C:\Users\Alexandru\Desktop\OOP\T4 3\x64\Release\T4 3.exe
